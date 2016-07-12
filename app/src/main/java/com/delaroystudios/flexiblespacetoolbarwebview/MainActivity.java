@@ -1,4 +1,4 @@
-package com.delaroystudios.flexiblespacetoolbarscroll;
+package com.delaroystudios.flexiblespacetoolbarwebview;
 
 import android.content.Context;
 import android.content.Intent;
@@ -43,17 +43,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     // Quickly navigate through the examples.
     enum Filter {
-        All,
-        GridView,
-        RecyclerView,
-        ScrollView,
-        ListView,
-        WebView,
-        Toolbar,
-        ActionBar,
-        FlexibleSpace,
-        Parallax,
-        ViewPager,
+        All
+
     }
 
     Filter currentFilter = Filter.All;

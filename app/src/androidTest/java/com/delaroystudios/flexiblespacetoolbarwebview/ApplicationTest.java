@@ -1,4 +1,4 @@
-package com.delaroystudios.flexiblespacetoolbarscroll;
+package com.delaroystudios.flexiblespacetoolbarwebview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
